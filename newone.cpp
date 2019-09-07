@@ -10,6 +10,7 @@ int b = 12;
     cout<<"Learning git and github";
     cout<<"Basics of git and github";
     cout<<a;
+    cout<<b;
 
     //This is our first version..
     //This is our second version..
